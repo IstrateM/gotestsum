@@ -6,7 +6,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/istratem/gotestsum/pkg/junitxml"
+	"github.com/adodon2go/gotestsum/pkg/junitxml"
 	"gotest.tools/gotestsum/testjson"
 )
 

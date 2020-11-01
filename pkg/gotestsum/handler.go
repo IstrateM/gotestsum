@@ -5,8 +5,8 @@ import (
 	"io"
 	"os"
 
-	"github.com/istratem/gotestsum/pkg/junitxml"
-	"github.com/istratem/gotestsum/pkg/options"
+	"github.com/adodon2go/gotestsum/pkg/junitxml"
+	"github.com/adodon2go/gotestsum/pkg/options"
 	"gotest.tools/gotestsum/testjson"
 )
 

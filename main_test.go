@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/istratem/gotestsum/pkg/operator"
-	"github.com/istratem/gotestsum/pkg/options"
+	"github.com/adodon2go/gotestsum/pkg/operator"
+	"github.com/adodon2go/gotestsum/pkg/options"
 	"os"
 	"testing"
 )

@@ -5,7 +5,7 @@ import (
 	"context"
 
 	"github.com/google/go-github/github"
-	"github.com/istratem/gotestsum/pkg/options"
+	"github.com/adodon2go/gotestsum/pkg/options"
 	"golang.org/x/oauth2"
 )
 

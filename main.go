@@ -6,9 +6,9 @@ import (
 	"os/exec"
 
 	"github.com/fatih/color"
-	"github.com/istratem/gotestsum/pkg/gotestsum"
-	"github.com/istratem/gotestsum/pkg/operator"
-	"github.com/istratem/gotestsum/pkg/options"
+	"github.com/adodon2go/gotestsum/pkg/gotestsum"
+	"github.com/adodon2go/gotestsum/pkg/operator"
+	"github.com/adodon2go/gotestsum/pkg/options"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/pflag"
 	"gotest.tools/gotestsum/testjson"
