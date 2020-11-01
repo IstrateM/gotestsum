@@ -10,7 +10,7 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/adodon2go/gotestsum/pkg/options"
+	"github.com/istratem/gotestsum/pkg/options"
 	"gotest.tools/gotestsum/testjson"
 )
 
